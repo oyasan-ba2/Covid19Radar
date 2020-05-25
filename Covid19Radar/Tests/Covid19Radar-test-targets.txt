@@ -1,0 +1,50 @@
+# Covid19Radar test target list
+# <device> <OS> <period ("D"isable=Test manually, "N"ightly, "W"eekly, "M"onthly)> # Share in Japan (Carrier) / Manual test contributer
+
+# Nightly
+#  iPhones Top 10 in Japan(2019)
+#	Ref.:	DeviceAtlas The most popular smartphones in 2019(Q2 2019)
+#	        https://deviceatlas.com/blog/most-popular-smartphones#japan
+Apple iPhone 7			13.5	N	# 11.73% (All)
+Apple iPhone 8			13.5	N	# 11.28% (All)
+Apple iPhone 6s			13.5	N	#  5.66% (All)
+Apple iPhone X			13.5	N	#  5.31% (All)
+Apple iPhone 7 Plus		13.5	N	#  3.69% (All)
+Apple iPhone SE			13.5	N	#  3.54% (All)
+Apple iPhone 8 Plus		13.5	N	#  3.35% (All)
+Apple iPhone XR			13.5	N	#  3.00% (All)
+# Apple iPhone 6		12.4.1(Not supported)          	#  2.99% (All)
+Apple iPhone XS			13.5	N	#  2.89% (All)
+
+#  Android Reference Devices released from DoCoMo
+#	        https://www.nttdocomo.co.jp/support/product/index.html?category=pixel
+Google Pixel 3			9	N	#  ?.?? % (DoCoMo)
+Google Pixel 3 XL		9	N	#  ?.?? % (DoCoMo)
+Google Pixel 3a			9	N	#  ?.?? % (DoCoMo)
+
+#  Android Reference Devices released from Google
+Asus Google Nexus 7 (2013)	6.0.1	N	#  ?.?? % (Asus)
+
+#  Android Top 10 in Japan(2019)
+#	Ref.:	The most popular Android smartphones - 2019
+#       	https://deviceatlas.com/blog/most-popular-android-smartphones#japan
+# Sony Xperia XZ1 (To be add)			N	#  2.18% (Au/DoCoMo)
+# Sony Xperia X Compact (To be add)		N	#  0.85% (DoCoMo)
+# Sony Xperia XZ1 Compact (To be add)		N	#  0.84% (Sony)
+Sony Xperia XZ			6.0.1	N	#  0.82% (DoCoMo)
+Samsung Galaxy S8		9	N	#  0.78% (Au)
+# Sony Xperia XZ Premium (To be add)		N	#  0.78% (DoCoMo)
+# Huawei P20 Lite (To be add)			N	#  0.77% (Huawei)
+Samsung Galaxy S7 Edge		7.0	N	#  0.74% (Au)
+# Samsung Galaxy Feel (To be add)		N	#  0.61% (DoCoMo)
+
+# Weekly
+#  iPhones released from NTT DoCoMo
+#  Android devices released from NTT DoCoMo
+
+# Monthly
+
+# Disable = Test manually
+Asus Google Nexus 7 (2012)	5.1.1(Not supported)	D	#  ?.?? % (Asus) / oyasan_ba2
+Sharp AQUOS Compact		7.0	D	#  ?.?? % (DoCoMo) / oyasan_ba2
+Sony Xperia X Compact		8.0	D	#  ?.?? % (DoCoMo) / oyasan_ba2
